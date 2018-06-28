@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'DS Eraser Cyr';
+    src: url('../fonts/DSEraserCyr.eot');
+    src: url('../fonts/DSEraserCyr.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/DSEraserCyr.woff2') format('woff2'),
+    url('../fonts/DSEraserCyr.woff') format('woff'),
+    url('../fonts/DSEraserCyr.ttf') format('truetype'),
+    url('../fonts/DSEraserCyr.svg#DSEraserCyr') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.menu {
+    background: url(../images/chalkboard.jpg) repeat black;
+    color: white;
+    font-family: 'DS Eraser Cyr', Helvetica, sans-serif;
+    text-align: center;
+    font-size: 3em;
+}
+
+table {
+    width: 100%;
+}
+
+.menu a {
+    color: white;
+}
